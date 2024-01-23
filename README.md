@@ -13,7 +13,7 @@ Welcome to the GitHub repository for comprehensive university notes! These notes
 - Design and Analysis of Algorithms (DAA)
 - and alot more to come 
 
-![Repository Image](https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/folders.png)
+![Repository Image](https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/folders.png)
 
 
 ## About the Notes
@@ -38,13 +38,13 @@ Feel free to explore, download, and share these notes. Best of luck with your st
 ## Look Like 👀
 
 
-<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/dl2.png" alt="Repository Image" width="400" height="200" />
+<img src="https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/dl2.png" alt="Repository Image" width="400" height="200" />
 
-<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/sprb.png" alt="Repository Image" width="400" height="200" />
+<img src="https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/sprb.png" alt="Repository Image" width="400" height="200" />
 
-<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/sprob.png" alt="Repository Image" width="400" height="200" />
+<img src="https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/sprob.png" alt="Repository Image" width="400" height="200" />
 
-<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/ml.png" alt="Repository Image" width="400" height="200" />
+<img src="https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/ml.png" alt="Repository Image" width="400" height="200" />
 
 ---
 Note: This repository is maintained by [**usmanyousaaf**]
