@@ -1,4 +1,4 @@
-# University Notes   (Handouts)
+# University Notes   (Handouts 📚) 
 
 Welcome to the GitHub repository for comprehensive university notes! These notes cover a range of subjects that include:
 
@@ -12,6 +12,9 @@ Welcome to the GitHub repository for comprehensive university notes! These notes
 - Digital Logic Design (DLD)
 - Design and Analysis of Algorithms (DAA)
 - and alot more to come 
+
+![Repository Image](https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/folders.png)
+
 
 ## About the Notes
 
@@ -31,5 +34,17 @@ These notes are provided on a goodwill basis, and the author encourages ethical 
 
 Feel free to explore, download, and share these notes. Best of luck with your studies!
 
+
+## Look Like 👀
+
+
+<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/dl2.png" alt="Repository Image" width="400" height="200" />
+
+<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/sprb.png" alt="Repository Image" width="400" height="200" />
+
+<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/sprob.png" alt="Repository Image" width="400" height="200" />
+
+<img src="https://github.com/usmanyousaaf/backup-storage/blob/main/images%20for%20university%20course/ml.png" alt="Repository Image" width="400" height="200" />
+
 ---
-Note: This repository is maintained by [usmanyousaaf]
+Note: This repository is maintained by [**usmanyousaaf**]
