@@ -47,7 +47,7 @@ Feel free to explore, download, and share these notes. Best of luck with your st
 <img src="https://github.com/usmanyousaaf/deeplearing_complete_course/blob/main/images%20for%20decprition/ml.png" alt="Repository Image" width="400" height="200" />
 
 ---
-## Acknowledgments
+## Note
 
 This repository is maintained by [**usmanyousaaf**](https://github.com/usmanyousaaf) with invaluable contributions from [**Aqsa Hafeez**].
 
